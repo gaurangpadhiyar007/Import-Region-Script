@@ -4,7 +4,7 @@
 * @category Importregions
 * @author  Gaurang Padhiyar <gaurangpadhiyar1993@gmail.com>
 * note : 
-*   If region is text area for imported country than below note is applicable.
+*   If region is input type text for imported country than below note is applicable.
 *   1) After this process all the customers regions belongs imported country lost becuase of now it converted to select dropdown from input type text.
 */
 
