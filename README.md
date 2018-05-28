@@ -10,7 +10,7 @@ Format for Header of csv.
 
 Note :
 
- If region value is text area for imported country than below note is applicable.  
+ If region value is input type text for imported country than below note is applicable.  
  
- 1) After this process all the customers regions belongs imported country lost becuase of now it become drop down instead of text area.
+ 1) After this process all the customers regions belongs imported country lost becuase of now it converted to select dropdown from input type text.
  
